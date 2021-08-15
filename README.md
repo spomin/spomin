@@ -2,7 +2,11 @@
 
 15. novembra 1962 je na IMFM začel z delom računalnik ZUSE. Ta datum bi lahko šteli za začetek računalništva pri nas. 
 
-Spomin je bil ustvarjen kot skupno področje, kjer naj bi se zbirali spomini in druga gradiva o razvoju računalništva in informatike pri nas.
+Spomin je bil ustvarjen kot skupno področje, kjer naj bi se zbirali spomini in druga gradiva o razvoju računalništva in informatike pri nas. Vsebino lahko spreminjajo le <b>sodelavci</b> projekta. Sodelavce moram posebej povabiti. Kogar sodelovanje zanima, naj mi sporoči po e-pošti na <tt>vladimir.batagelj@fmf.uni-lj.si</tt> .
+
+Gradiva postavite v ustrezno (pod) področje.
+
+
 
 
 
